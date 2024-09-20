@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://nefoziqezeku.vercel.app/sitemap.xml
